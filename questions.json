@@ -1,0 +1,36 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "If you start at 9 on the number line and take 3 steps back, where will you land?<br>[9 - 3 =  ?]",
+      "options": [
+        "7",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "secondImg":"./images/21.png"
+    },
+    {
+      "questionNo": "Q2",
+      "question": "What is 10 - 4 on the number line?",
+      "options": [
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "secondImg":"./images/22.png"
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Start at 8 and move 4 steps back on the number line.What number will you land on?<br>[8 - 4 =  ?]",
+      "options": [
+        "5",
+        "4",
+        "6"
+      ],
+      "correct": 1,
+      "secondImg":"./images/23.png"
+    }
+  ]
+  
